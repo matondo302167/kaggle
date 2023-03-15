@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2021-01-24T05:42:58Z",
+  "last_modified_by_me": "2021-01-24T05:42:58Z",
+  "content_last_modified": "2021-01-24T05:42:58Z",
+  "created": "2022-03-31T06:59:23.709Z",
+  "permissions": [
+    {
+      "id": "06851609501777655002",
+      "name": "benison simao",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a-/AOh14GjLkXWr-wPHhHXd4KE6gBkcnN7NZAp3EsVIbrC5Ww=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1IaDYy7FMFfT1yrhd43OpJJVOty3x9lS0/permissions/06851609501777655002",
+      "email_address": "simaobenison@gmail.com",
+      "domain": "gmail.com",
+      "etag": "\"rAQ2SY0cOrs15WA00BdF8gYWPbg\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "12 - Numpy Maths et Statistiques.ipynb",
+  "mime_type": "application/octet-stream"
+}

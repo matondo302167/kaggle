@@ -1,0 +1,254 @@
+{
+    "Apps": [
+        {
+            "app_launch_ordinal": "t",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "",
+                        "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+                        "version": "0.2",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+}
+    ],
+    "App Settings": [],
+    "Preferences": [
+        {
+            "name": "profile.content_settings.exceptions.images",
+            "value": "{}"
+},
+        {
+            "name": "session.startup_urls",
+            "value": "[\"https://10.250.54.254/login?dst=http%3A%2F%2Fwww.msftconnecttest.com%2Fredirect\"]"
+},
+        {
+            "name": "custom_links.initialized",
+            "value": "true"
+},
+        {
+            "name": "autofill.profile_enabled",
+            "value": "false"
+},
+        {
+            "name": "translate_too_often_denied_for_language",
+            "value": "{\"en\":true,\"fr\":true}"
+},
+        {
+            "name": "translate_force_trigger_on_english_count_for_backoff_1",
+            "value": "-1"
+},
+        {
+            "name": "session.restore_on_startup",
+            "value": "5"
+},
+        {
+            "name": "profile.cookie_controls_mode",
+            "value": "0"
+},
+        {
+            "name": "browser.enable_spellchecking",
+            "value": "true"
+},
+        {
+            "name": "translate_ignored_count_for_language",
+            "value": "{\"ar\":1,\"ca\":2,\"el\":1,\"en\":1,\"fr\":7,\"ne\":1,\"nl\":3,\"pt\":99,\"ru\":3,\"sw\":2,\"und\":0}"
+},
+        {
+            "name": "profile.name",
+            "value": "\"Persona 1\""
+},
+        {
+            "name": "download.prompt_for_download_android",
+            "value": "1"
+},
+        {
+            "name": "custom_links.list",
+            "value": "[]"
+},
+        {
+            "name": "ntp.custom_background_dict",
+            "value": "{\"attribution_action_url\":\"https://500px.com/photo/135751035/soulseek-by-%E5%B0%A4%E9%87%91%E5%B0%BC-ev-tchebotarev\",\"attribution_line_1\":\"Foto di Ev Tchebotarev\",\"attribution_line_2\":\"\",\"background_url\":\"https://lh4.googleusercontent.com/proxy/UOhQwfclsAK8TnXZqoTkh9szHvYOJ3auDH07hZBZeVaaRWvzGaXpaYl60MfCRuW_S57gvzBw859pj5Xl2pW_GpfG8k2GhE9LUFNKwA=w3840-h2160-p-k-no-nd-mv\",\"collection_id\":\"\",\"refresh_timestamp\":0,\"resume_token\":\"\"}"
+},
+        {
+            "name": "profile.content_settings.exceptions.cookies",
+            "value": "{}"
+},
+        {
+            "name": "accessibility.captions.live_caption_enabled",
+            "value": "false"
+},
+        {
+            "name": "translate_blocked_languages",
+            "value": "[\"it\",\"fr\"]"
+},
+        {
+            "name": "translate_recent_target",
+            "value": "\"it\""
+},
+        {
+            "name": "autofill.profile_use_dates_fixed",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.plugins",
+            "value": "{}"
+},
+        {
+            "name": "sync.demographics_birth_year_offset",
+            "value": "1"
+},
+        {
+            "name": "payments.can_make_payment_enabled",
+            "value": "false"
+},
+        {
+            "name": "alternate_error_pages.enabled",
+            "value": "true"
+},
+        {
+            "name": "sharing.vapid_key",
+            "value": "{\"vapid_creation_timestamp\":\"13212674556469527\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg24v8kgUDG0TPRQGOvbI+uGuZWXbJoEFUUlS9DAxpvhyhRANCAARCDoE8FfbBxnekU/B1D0xBcI3Iij2elAbRayGMuIuxkFcnZ2KEckJQvjiTdwLgkTt/UKm0blvmepMFQk5IMsqI\"}"
+},
+        {
+            "name": "extensions.commands",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.storage_access",
+            "value": "{}"
+},
+        {
+            "name": "bookmark_bar.show_apps_shortcut",
+            "value": "false"
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"el\":1,\"en\":0,\"fr\":21,\"nl\":1,\"pt\":6,\"und\":0}"
+},
+        {
+            "name": "search.contextual_search_enabled",
+            "value": "\"true\""
+},
+        {
+            "name": "profile.content_settings.exceptions.automatic_downloads",
+            "value": "{\"https://picwish.com:443,*\":{\"expiration\":\"0\",\"last_modified\":\"13294255465813362\",\"model\":0,\"setting\":1}}"
+},
+        {
+            "name": "intl.accept_languages",
+            "value": "\"it-IT,it,en-US,en,fr\""
+},
+        {
+            "name": "profile.content_settings.exceptions.flash_data",
+            "value": "{}"
+},
+        {
+            "name": "translate_allowlists",
+            "value": "{}"
+},
+        {
+            "name": "autofill.credit_card_enabled",
+            "value": "true"
+},
+        {
+            "name": "translate_whitelists",
+            "value": "{}"
+},
+        {
+            "name": "net.easter_egg_high_score",
+            "value": "40625"
+},
+        {
+            "name": "profile.content_settings.exceptions.popups",
+            "value": "{\"http://localhost:3000,*\":{\"expiration\":\"0\",\"last_modified\":\"13294275355555156\",\"model\":0,\"setting\":1},\"https://www.office.com:443,*\":{\"expiration\":\"0\",\"last_modified\":\"13292416498037076\",\"model\":0,\"setting\":1}}"
+},
+        {
+            "name": "translate_site_blacklist",
+            "value": "[]"
+},
+        {
+            "name": "profile.content_settings.exceptions.font_access",
+            "value": "{}"
+},
+        {
+            "name": "safebrowsing.enabled",
+            "value": "true"
+},
+        {
+            "name": "download.prompt_for_download",
+            "value": "true"
+},
+        {
+            "name": "ntp.app_page_names",
+            "value": "[\"App\"]"
+},
+        {
+            "name": "profile.avatar_index",
+            "value": "26"
+},
+        {
+            "name": "browser.clear_data.time_period_basic",
+            "value": "4"
+},
+        {
+            "name": "translate_site_blacklist_with_time",
+            "value": "{\"10.250.54.37\":\"13288108834652220\"}"
+},
+        {
+            "name": "extensions.pinned_extensions",
+            "value": "[]"
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"el\":0,\"en\":2,\"fr\":0,\"nl\":0,\"pt\":0,\"und\":1}"
+},
+        {
+            "name": "intl.selected_languages",
+            "value": "\"it-IT,it,en-US,en,fr\""
+},
+        {
+            "name": "profile.content_settings.exceptions.javascript",
+            "value": "{}"
+},
+        {
+            "name": "bookmark_bar.show_on_all_tabs",
+            "value": "false"
+},
+        {
+            "name": "profile.content_settings.exceptions.midi_sysex",
+            "value": "{}"
+},
+        {
+            "name": "translate_auto_never_count",
+            "value": "{\"fr\":2}"
+},
+        {
+            "name": "profile.content_settings.exceptions.window_placement",
+            "value": "{}"
+},
+        {
+            "name": "extensions.ui.developer_mode",
+            "value": "false"
+},
+        {
+            "name": "sharing.synced_devices",
+            "value": "{\"EOGrLfrZl12ebb5bVQgzXA==\":{\"device_auth_secret\":\"lQJRkNXePJm+KtJpvBoEgQ==\",\"device_capabilities\":2,\"device_fcm_token\":\"eaLMnAYOzUM:APA91bF0iZqh37nM0o3IHpPH8NF05TgCI5RdFm2GEJQmB93LuqALImfxpZeeAO3TbRY2z5E_D8l0AhHL-s-eGVNndLL-Jlp913vMe8DkR-Q8GWQAMQRzVsBCKyyuyC7SBL-bBstVC1vq\",\"device_p256dh\":\"BDZyzFMMCzpQQPwJVmicSA7agXxITNlBcmeeaYqZcRcnQJWPSQLRdKymcVUipFq7AGh6N/ET5IJBSO84ergyVLo=\"},\"iFGLLd8rqYVXvdWvnf+rsw==\":{\"device_auth_secret\":\"7He++al2Or1uzo1teqiaBQ==\",\"device_capabilities\":2,\"device_fcm_token\":\"cB1JjDkuvZU:APA91bE20U13nKzB8Lw_pLNTYHAA2k7X7Gharc8IcMxIyjE0n35Q354c0xI7bi2AakA_W8gbDoKF_Gl3yonOtMx7nuzruHinq3_vPLFxLJWnCo1jdSVl4HAPlP81wxmAxNNNQr-lSodL\",\"device_p256dh\":\"BE4Bc6ETX2f7tmbRAMYMbUJ7FhfR9n5j/aKiEVEXGcarnETzevSk1gvUcy43LcCcTipT4paBCooPw3GH8jm/wnQ=\"},\"vMmTtruZOLNs/cglL2vj1A==\":{\"device_auth_secret\":\"BOzebsP6mSNojEUMlMr8aA==\",\"device_capabilities\":3,\"device_fcm_token\":\"dgWhiDdw2jA:APA91bG-lsnyLpQJUh6-Wrf5ml2G5BM4ljGX8gq6sphh-JLDj2I_WykCcmg-FYrhFEKvGc9RIrHS7NP5pd00OjmOSMPNPGdG4bh-9G6kb_A43qpDSATadOkChOonusv1Dmg4bKxfacjE\",\"device_p256dh\":\"BElJ1pMIQ2MZsJsO/zRRRdgZ4ZEHPGDVy+/4qENNlVj2PQO78LSqfZ+HU8vwd/tpthuxFNK9KM/NEDajl4ubIGo=\"}}"
+},
+        {
+            "name": "translate_auto_always_count",
+            "value": "{\"en\":2,\"tr\":1}"
+},
+        {
+            "name": "autofill.last_version_disused_addresses_deleted",
+            "value": "70"
+}
+    ],
+    "Themes": [
+        {
+            "use_system_theme_by_default": false,
+            "use_custom_theme": false
+}
+    ]
+}

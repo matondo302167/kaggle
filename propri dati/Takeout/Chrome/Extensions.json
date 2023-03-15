@@ -1,0 +1,30 @@
+{
+    "Extensions": [
+        {
+            "incognito_enabled": true,
+            "remote_install": false,
+            "disable_reasons": 1,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "id": "gkkdmjjodidppndkbkhhknakbeflbomf",
+            "version": "3.0.10",
+            "enabled": false
+}
+    ],
+    "Extension Settings": [
+        {
+            "extension_id": "gkkdmjjodidppndkbkhhknakbeflbomf",
+            "value": "\"rgb(57, 255, 20)\"",
+            "key": "activeColour"
+},
+        {
+            "extension_id": "gkkdmjjodidppndkbkhhknakbeflbomf",
+            "value": "\"colour1\"",
+            "key": "panelId"
+},
+        {
+            "extension_id": "gkkdmjjodidppndkbkhhknakbeflbomf",
+            "value": "\"singleline\"",
+            "key": "copyMode"
+}
+    ]
+}

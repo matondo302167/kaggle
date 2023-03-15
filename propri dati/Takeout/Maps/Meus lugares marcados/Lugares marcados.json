@@ -1,0 +1,24 @@
+{
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 10.328443, 44.783485399999996 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Piazza Occorsio, 1, 43123 Parma PR, Itália",
+      "name" : "Início"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.3097826, 44.7655933 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Università degli Studi di Parma - Parco Area delle Scienze, 43124 Parma PR, Itália",
+      "name" : "Scuola"
+    },
+    "type" : "Feature"
+  } ],
+  "type" : "FeatureCollection"
+}

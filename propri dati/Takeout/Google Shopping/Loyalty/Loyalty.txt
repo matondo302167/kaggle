@@ -1,0 +1,1 @@
+Nome do comerciante,Código de fidelidade,Usuário de fidelidade
